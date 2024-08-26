@@ -21,8 +21,7 @@
 - Trained data collection officers.
 - Interpreted monitoring results from data collection officers.
 
-
- ### Data Encoder and Technical Support @ Lodebar Business with Family Search International (2020 - 2022)
+### Data Encoder and Technical Support @ Lodebar Business with Family Search International (2020 - 2022)
 
 - Recorded information using data collection tools.
 - Encoded data using the genealogy software Legacy.
