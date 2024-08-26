@@ -1,30 +1,6 @@
-#title: Bienvenue Bukasa
-#logo: /assets/img/headshot_circle.png
-#description: text below image
-#show_downloads: true 
-#theme: jekyll-theme-minimal
-
-title: "Bienvenue Bukasa Muepu"
-#logo: "bienvenue.png"
-description: "Data Scientist specializing in Data Analysis, Machine Learning, and AI, with experience in data management and technical support."
-show_downloads: true
+title: Bienvenue Muepu
+logo: bienvenue.png
+description: text below image
+show_downloads: true 
 theme: jekyll-theme-minimal
-social_links:
-  - name: LinkedIn
-    url: https://www.linkedin.com/in/bienvenue-bukasa
-  - name: GitHub
-    url: https://github.com/bienvenue-bukasa
-  - name: Email
-    url: mailto:bienvenue.bukasa@aims-cameroon.org
-sections:
-  - title: "About Me"
-    content: "I am a data scientist with a strong background in data analysis, machine learning, and AI. My experience includes working with various organizations on data collection, analysis, and the development of innovative solutions to complex problems. I hold an MSc in Mathematical Sciences from AIMS Cameroon and a BSc in Computer Engineering from the University of Mbujimayi."
-  - title: "Work Experience"
-    content: "My work experience includes roles as a Data Encoder and Analyst at Congo Coders, Technical Controller at the Commission Electorale Nationale Indépendante, and Data Encoder at Lodebar Business with Family Search International."
-  - title: "Projects"
-    content: "I have worked on projects such as enhancing medical image anomaly detection using autoencoder techniques and developing tools for data management and analysis."
-  - title: "Education"
-    content: "I have completed my MSc in Mathematical Sciences (Data Science) from the African Institute for Mathematical Sciences (AIMS), Cameroon, and my BSc in Computer Engineering from the University of Mbujimayi, DRC."
-  - title: "Skills"
-    content: "Data Analysis, Machine Learning, Python, R, SQL, Data Management, AI, GMAO Software, ODK Collect, COCO Collect, Legacy Genealogy Software"
 
