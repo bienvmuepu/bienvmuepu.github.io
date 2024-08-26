@@ -8,13 +8,13 @@
 
 ### Work Experience
 
-Data Encoder and Analyst @ Congo Coders (2022 - 2023)
+## Data Encoder and Analyst @ Congo Coders (2022 - 2023)
 
 - Collected toll tax data using the COCO COLLECT application.
 - Accurately encoded toll tax data into company systems.
 - Verified and validated the accuracy of collected tax data.
 
-Technical Controller & Data Collection Officer @ Commission Electorale Nationale Indépendante (2022 - 2023)
+## Technical Controller & Data Collection Officer @ Commission Electorale Nationale Indépendante (2022 - 2023)
 
 - Supervised the operation of revising the electoral roll.
 - Collected data from educational and health institutions using ODK COLLECT.
@@ -22,7 +22,7 @@ Technical Controller & Data Collection Officer @ Commission Electorale Nationale
 - Interpreted monitoring results from data collection officers.
 
 
- Data Encoder and Technical Support @ Lodebar Business with Family Search International (2020 - 2022)
+ ## Data Encoder and Technical Support @ Lodebar Business with Family Search International (2020 - 2022)
 
 - Recorded information using data collection tools.
 - Encoded data using the genealogy software Legacy.
